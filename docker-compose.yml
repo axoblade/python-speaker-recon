@@ -9,5 +9,5 @@ services:
       - ./trained:/app/trained
       - ./config:/app/config      
     ports:
-      - "5100:5000"
+      - "5000:5000"
 
